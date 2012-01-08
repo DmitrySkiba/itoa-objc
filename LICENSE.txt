@@ -1,0 +1,2 @@
+Almost all code in itoa-objc project is under APSL, see APPLE_LICENSE.
+Some code is under Apache license, see APACHE_LICENSE.
